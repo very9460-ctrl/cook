@@ -12,7 +12,7 @@ h1,h2,h3,h4,h5{   font-family: "Gugi", sans-serif;
 #news {
     background-image: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url(../images/news-bg.jpg);
     background-size: cover;
-    background-position: center top;
+    background-position: center;
 }
 #sns-links {
      background-image: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url(../images/sns-bg.jpg);
